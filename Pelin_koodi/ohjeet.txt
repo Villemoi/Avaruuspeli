@@ -1,0 +1,5 @@
+DEFINITIONS.hpp tiedostosta voi vaihtaa pelin muuttujiaa kuten filepatheja frameratea resoluutiota jne.
+
+jokaiselle pelin statelle on oma cpp ja hpp tiedosto joihin voi koodata miten peli toimii jokaisessa statessa
+
+jos on kysyttävää nii mullakaa ei kauheena oo hajua miten toi sfml toimii nii google on varmaan parempi paikka kysyä vaikeempia kysymyksiä :D
